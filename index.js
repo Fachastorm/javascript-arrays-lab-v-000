@@ -1,5 +1,5 @@
 const app = "I don't do much."
 
-function destructivelyAppendKitten(array) {
+function destructivelyAppendKitten(name) {
   return array.unshift()
 }
